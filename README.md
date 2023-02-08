@@ -12,7 +12,7 @@ To start the command interpreter type in these commands in your terminal:
 
 Cloning the repo and starting the console:
 ================================
-git clone https://github.com/KamauDev-maker/AirBnB_clone.git
+git clone https://github.com/Devkamara/AirBnB_clone.git
 cd AirBnB_clone
 Execution
 Your shell should work like this in interactive mode:
